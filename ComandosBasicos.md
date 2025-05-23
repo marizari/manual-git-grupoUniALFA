@@ -141,3 +141,5 @@ Editar
 $ git config --global user.name "Seu Nome"
 $ git config --global user.email "email@example.com"
 Simulação: Define quem está fazendo os commits.
+
+parte #
