@@ -21,3 +21,13 @@ Controle de versão é uma ferramenta que permite registrar, acompanhar e gerenc
 - Ausência de backup ou versões seguras do projeto.
 
 ---
+
+##  História do Git
+
+- O Git foi desenvolvido em **2005** por **Linus Torvalds**, criador do Linux.
+- Surgiu devido a problemas com o sistema de controle de versão usado no desenvolvimento do kernel Linux.
+- O objetivo era criar uma ferramenta rápida, eficiente, confiável e que funcionasse de forma distribuída (em qualquer computador).
+- Atualmente, é o sistema de controle de versão mais utilizado no mundo, tanto por profissionais quanto por estudantes.
+
+---
+
