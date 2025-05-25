@@ -31,3 +31,12 @@ Controle de versão é uma ferramenta que permite registrar, acompanhar e gerenc
 
 ---
 
+##  Diferença entre Git e GitHub
+
+| Git                               | GitHub                                          |
+|-----------------------------------|--------------------------------------------------|
+| Ferramenta de controle de versão  | Plataforma online para hospedagem de repositórios Git |
+| Funciona localmente no computador | Funciona na nuvem (via internet)                 |
+| Gerencia versões de arquivos      | Permite compartilhar, colaborar e gerenciar projetos |
+| Não precisa de internet           | Precisa de internet para acessar os projetos remotos |
+| Usado na linha de comando ou interfaces | Usado pelo site, aplicativos e integração com Git |
