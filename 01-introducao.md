@@ -11,3 +11,13 @@ Controle de versão é uma ferramenta que permite registrar, acompanhar e gerenc
 - Permite testar ideias ou fazer alterações sem impactar o projeto principal.
 
 ---
+
+## Problemas que o Git resolve
+
+- Arquivos sobrescritos sem querer.
+- Bagunça com várias versões, como: `projeto_final_ok.doc`.
+- Dificuldade na colaboração entre pessoas no mesmo projeto.
+- Falta de controle sobre quem fez determinada mudança.
+- Ausência de backup ou versões seguras do projeto.
+
+---
