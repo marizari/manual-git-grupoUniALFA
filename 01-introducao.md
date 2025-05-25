@@ -40,3 +40,13 @@ Controle de versão é uma ferramenta que permite registrar, acompanhar e gerenc
 | Gerencia versões de arquivos      | Permite compartilhar, colaborar e gerenciar projetos |
 | Não precisa de internet           | Precisa de internet para acessar os projetos remotos |
 | Usado na linha de comando ou interfaces | Usado pelo site, aplicativos e integração com Git |
+
+### Resumo:
+- **Git** é o programa que controla e registra alterações nos arquivos, funcionando no seu computador.
+- **GitHub** é um site onde você envia seus projetos com Git para compartilhar, colaborar e trabalhar em equipe.
+
+---
+
+##  Conclusão
+
+O Git é uma ferramenta essencial para quem quer organizar e proteger seus projetos, mantendo um histórico completo de todas as mudanças. Junto com o GitHub, se torna uma solução poderosa para trabalhos colaborativos, seja em desenvolvimento de software, documentos ou qualquer outro tipo de projeto.
