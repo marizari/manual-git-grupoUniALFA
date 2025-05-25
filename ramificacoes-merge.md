@@ -158,10 +158,9 @@ ________________`git commit`_____________________
 de merge, ou já faz isso automaticamente.)
 
 
-- 🧼 Dica para ver o que está em conflito
+**🧼 Dica para ver o que está em conflito**
 _______________`git status`_______________________
 - Ele mostra todos os arquivos que ainda têm conflitos.
-
 
 
 
