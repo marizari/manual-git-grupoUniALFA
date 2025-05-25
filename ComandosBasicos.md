@@ -131,15 +131,5 @@ Editar
 $ git stash
 $ git stash pop
  Simulação: "Guarda" suas alterações para que você possa mudar de branch ou resolver conflitos.
-
- 15. git config
-Configurações do usuário.
-
-bash
-Copiar
-Editar
-$ git config --global user.name "Seu Nome"
-$ git config --global user.email "email@example.com"
-Simulação: Define quem está fazendo os commits.
-
+ 
 parte 3
