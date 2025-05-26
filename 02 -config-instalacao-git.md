@@ -18,7 +18,7 @@ Para mais informações de instalação git em outros sistemas unix vá em: http
 No mac há diversas maneiras de instalar o git, o modo mais comum seria instalar por meio das ferramentas de linha de comando Xcode.
 Em máquinas OS mavericks 10.9 você pode instalar simplesmente rodando git, no terminal pela primeira vez.
 Caso queira uam versão mais atualizada, é possível instalar por meio de instalador binário, o isntalador OSX Git é mantido e disponível para download no site do git de Mac OS http://git-scm.com/download/mac.
-![alt text](image.png) imagem do OSX git
+![alt text](./img/image.png) imagem do OSX git
 Também é possível instalar via download do github para Mac, seu GUI git tem opções de instalação de ferramentas de linah de comando, para mais informações visite http://mac.github.com.
 
 2. Comandos de Configuração 
