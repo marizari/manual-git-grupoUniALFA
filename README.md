@@ -1,6 +1,16 @@
 # manual-git-grupoUniALFA
 Este repositório contém um manual prático e introdutório de Git e GitHub, desenvolvido de forma colaborativa por estudantes como parte de um trabalho bimestral. O conteúdo está organizado em módulos temáticos em formato Markdown, voltados para iniciantes, com explicações simples, exemplos práticos e imagens ilustrativas.
 
+# Segue fotos/indices dos Activy´s do grupo:
+
+![Ilustração sobre conflitos no Git ](./img/Part.1%20-%20Activy.png)
+
+![Ilustração sobre conflitos no Git ](./img/Part.2%20-%20Activy.png)
+
+![Ilustração sobre conflitos no Git ](./img/Part.3%20-%20Activy.png)
+
+
+
 # Links dos perfis em ordem
 
 1. __https://github.com/MrIlustration2005__
